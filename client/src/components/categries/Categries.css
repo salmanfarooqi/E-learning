@@ -1,0 +1,50 @@
+.categries-wraper{
+
+  margin:10px 13px;     
+  /* background-color:#EDF6FF; */
+  box-shadow: 2px 2px 1px #EDF6FF;
+  border: 1px solid #FFFFFF;
+  border-radius: 10px;
+}
+
+.categries-wraper .categries-top-text {
+
+    text-align: center;
+    
+}
+
+.categries-card{
+
+    width: 300px;
+    height:300px;
+    background-color:#FFFFFF;
+    /* margin-left:10px; */
+}
+.categries-card .image{
+
+    width: 90px;
+    height: 90px;
+    margin:50px 40px 10px 50px;
+}
+.categries-card:hover{
+
+    background-color: green;
+    
+}
+.card-texts{
+
+    padding:10px 30px; 
+}
+.card-texts h1{
+
+    color: #747474;
+    font-size: 28px;
+}
+
+.card-texts h2{
+
+    font-size: 24px;
+    color: #747474;
+
+
+}

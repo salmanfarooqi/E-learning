@@ -1,0 +1,39 @@
+*{
+
+    margin: 0px;
+    padding: 0px;
+    box-sizing: border-box;
+}
+.home-wrapper{
+
+    background-color:#F6FAFE;
+}
+.container{
+
+    margin:0px 10px;
+   
+}
+.courses{
+
+
+    display: flex;
+    flex-wrap: wrap;
+}
+.categries{
+
+    display: flex;
+    flex-wrap: wrap;
+    margin-top:5px;
+  
+}
+ .text h1{
+
+    text-align: center;
+    /* color: gold; */
+    margin-top: 30px;
+    text-transform: capitalize;
+    font-size: 40px;
+    /* font-family: bold; */
+
+  
+}

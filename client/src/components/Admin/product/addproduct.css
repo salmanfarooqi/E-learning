@@ -1,0 +1,61 @@
+.addproduct-wraper{
+    /* margin:10px; */
+
+  
+}
+.addproduct-wraper .product{
+
+    padding: 20px;
+
+
+    border:1px solid #ccE7d0;
+    align-items: center;
+    margin:1% 30%;
+    width: fit-content;
+    margin-top: 30px;
+
+    box-shadow: 20px 20px 30px rgba(0,0,0,0.02);
+
+}
+
+.addproduct-wraper input{
+
+    display: flex;
+    margin:20px 50px;
+    padding: 5px 10px;
+    /* border: none; */
+    box-shadow: 20px 20px 30px rgba(0,0,0,0.02);
+    border:1px solid #eec7d0
+    
+}
+
+.addproduct-wraper .product button{
+    /* margin:10px 600px; */
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    border:none;
+    color:White;
+    
+}
+
+.list-button button{
+
+
+    margin:10px 600px;
+    background-color: blue;
+    padding: 10px;
+    border-radius: 5px;
+    border:none;
+    color:White;
+}
+
+textarea{
+
+    height:140px;
+    width: 250px;
+    border:1px solid wheat;
+    border-radius: 10px;
+    background-color: white;
+    padding:10px
+}

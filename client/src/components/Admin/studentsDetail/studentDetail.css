@@ -1,0 +1,41 @@
+.studentDetail-wrapper{
+
+    display: flex;
+    /* background-color: blue; */
+    /* justify-content: space-around; */
+    margin-top:2px;
+}
+.studentDetail-wrapper .student-container{
+
+    margin:50px 100px;
+}
+.studentDetail-wrapper .student-container table{
+
+
+    box-shadow: 5px 5px 5px gray;
+    width: 100%;
+    background-color: gray;
+}
+
+.studentDetail-wrapper .student-container table thead{
+
+
+    /* background-color: gray; */
+}
+.studentDetail-wrapper .student-container table th{
+
+    padding:20px;
+    color:green;
+    font-size: 24px;
+    width: fit-content;
+}
+
+.studentDetail-wrapper .student-container table tbody  td{
+
+    padding:20px;
+    /* color:green; */
+    font-size: 24px;
+    background-color: azure;
+    border:none;
+}
+

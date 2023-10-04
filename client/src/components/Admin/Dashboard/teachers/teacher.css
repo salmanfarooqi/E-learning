@@ -1,0 +1,35 @@
+.teachercard-wrapper{
+
+    background-color: antiquewhite;
+    width:400px;
+    height: 250px;
+    margin:20px;
+    box-shadow: 1px 2px 2px antiquewhite;
+}
+
+ .teachercard-wrapper .card{
+
+    display: flex;
+    padding:20px;
+    align-items: center;
+    box-shadow: 5px 5px 5px antiquewhite;
+}
+
+.teachercard-wrapper .teachercard-image{
+
+    width: 200px;
+    height: 180px;
+    /* padding:20px 40px; */
+    color:gray;
+}
+.teachercard-wrapper h2{
+
+    color:gray;
+   
+}
+
+.teachercard-wrapper .no-student h2{
+
+    margin-left:30px;
+    /* color: black; */
+}

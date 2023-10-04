@@ -1,0 +1,33 @@
+.studentcard-wrapper{
+
+    background-color: antiquewhite;
+    width:400px;
+    height: 250px;
+    margin:20px
+}
+
+ .studentcard-wrapper .card{
+
+    display: flex;
+    padding:20px;
+    align-items: center;
+}
+
+.studentcard-wrapper .studentcard-image{
+
+    width: 200px;
+    height: 180px;
+    /* padding:20px 40px; */
+    color:gray;
+}
+.studentcard-wrapper h2{
+
+    color:gray;
+   
+}
+
+.studentcard-wrapper .no-student h2{
+
+    margin-left:30px;
+    /* color: black; */
+}

@@ -1,0 +1,14 @@
+.works-wrapper{
+
+    display: flex;
+    justify-content: space-around;
+}
+
+.works-wrapper div{
+
+    background-color: green;
+    width: 400px;
+    height: 100px;
+    padding: 120px 30px;
+
+}

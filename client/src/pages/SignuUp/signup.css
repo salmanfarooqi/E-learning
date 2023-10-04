@@ -1,0 +1,125 @@
+.signup-wraper{
+
+    border:1px solid #ccE7d0;
+    /* display: flex; */
+  /* display: flex; */
+    margin:20px 30%;
+    width:450px;
+    /* margin-top: 30px; */
+    height: 500px;
+  
+
+    box-shadow: 5px 5px 5px rgba(0,0,0,0.02);
+    border-radius: 10px;
+}
+
+ .signup-wraper .forms{
+
+    /* margin:20px; */
+    /* background-color: yellow; */
+    box-shadow: 0px 2px 10px rgba(0,0,0,0.02);
+    /* margin:20px; */
+    /* padding: 34px; */
+    color:#333;
+    
+   
+}
+
+
+
+.signup-wraper .input-box{
+
+
+    /* display: flex; */
+    /* margin:20px; */
+    /* padding: 10px 20px; */
+    /* border: none; */
+    /* box-shadow: 20px 20px 30px rgba(0,0,0,0.02); */
+    /* border:1px solid ; */
+    /* background-color; */
+    /* font-size: 24px; */
+    /* width: 350px; */
+    height: 52px;
+    margin: 60px 50px;
+
+    
+    
+    
+}
+
+.signup-wraper .forms .input-box input{
+
+    display: flex;
+    padding:0px 16px;
+    margin:18px 0px;
+    width: 100%;
+    height: 100%;
+    outline: none;
+    border: 1.5px solid #C7BEBE;
+    border-bottom-width: 2.5px;
+    border-radius: 6px;
+    font-size: 18px;
+    font-weight: 400px;
+    color:#333;
+    background-color: #fff;
+    transition: all 0.3s ease;
+
+}
+
+.forms button{
+
+    width:350px;
+    margin:20px 12px;
+    color: #fff;;
+    border-radius:2px;
+    background-color:#4070f4;
+    border:none;
+    padding: 10px;
+    /* position: absolute; */
+    font-size: 20px;
+    border-radius: 5px;
+    /* margin-right:24px ; */
+    cursor: pointer;
+   
+}
+
+.forms button:hover{
+
+    background-color: #0eb4f1;
+}
+
+
+.forms .input-box h2{
+
+    font-size: 24px;
+    margin-top: 10px;
+    font-weight: 100px;
+    width: 100%;
+    color:#333 ;
+}
+
+.forms .input-box h2 span{
+
+
+    color:#4070f4
+
+
+}
+.forms .input-box h2 span:hover{
+
+
+    text-decoration: underline 2px;
+    cursor: pointer;
+}
+
+ .warning {
+
+    color:gold;
+    padding:50px 30px;
+    background-color:white;
+    /* border: 1px solid; */
+    /* box-shadow: 1px 2px 2px  wheat; */
+
+
+}
+

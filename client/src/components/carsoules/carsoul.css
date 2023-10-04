@@ -1,0 +1,68 @@
+.carousel-wrapper {
+    height: 650px;
+    background-color: black;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.7), rgba(0, 0, 0, 0.7)), url("./images/carousel-1.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+    box-shadow: 2px 2px 3px gray;
+    border: 1px solid gray;
+    margin-top:15px;
+}
+
+.carousel-text {
+    color: #10AEBE;
+    padding: 80px;
+}
+
+.carousel-text h2 {
+    text-transform: capitalize;
+    font-size: 30px;
+    color: #10AEBE;
+}
+
+.carousel-text h1 {
+    text-transform: capitalize;
+    font-size: 64px;
+    color: #FFFFFF;
+    font-family: sans-serif;
+}
+
+.carousel-text h3 {
+    color: #FFFFFF;
+    opacity: 0.8;
+}
+
+.carousel-text .buttons {
+    margin-top: 10px;
+}
+
+.carousel-text .buttons button {
+    padding: 24px 48px;
+    margin-left: 10px;
+    background-color: #2BC5D4;
+    color: white;
+    border-radius: 1px;
+    font-size: 18px;
+    border: none;
+}
+.carousel-text .buttons button:hover{
+
+    background-color: green;
+    transition: 0.5s;
+
+
+}
+
+.carousel-text .buttons .join-button {
+    background-color: #FFFFFF;
+    color: gray;
+    margin-left: 30px;
+    color: black;
+    font-size: 24px;
+}
+
+.carousel-text .buttons .join-button:hover{
+
+    background-color:green ;
+    transition: 0.5s;
+}
